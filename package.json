@@ -1,0 +1,26 @@
+{
+  "name": "nodejscoba1",
+  "version": "1.0.0",
+  "description": "ini adalah program ujicoba 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "halo ini adalah yang ditampilkan pertama dari nodejs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hendroxpr/expresjs1.git"
+  },
+  "keywords": [
+    "nodejs",
+    "pemula"
+  ],
+  "author": "margo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hendroxpr/expresjs1/issues"
+  },
+  "homepage": "https://github.com/hendroxpr/expresjs1#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
